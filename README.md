@@ -14,4 +14,7 @@ You can take a look at my stats in github :
 <br/>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Codastic25&layout=compact&theme=tokyonight)
 <br/>
+### Connect with me  
+📌 **LinkedIn:** [Aurian Marvilliers](https://www.linkedin.com/in/aurian-marvilliers-85a3932b9/)
+
 
