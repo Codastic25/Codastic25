@@ -1,5 +1,5 @@
 # 💫 About Me:
-## Hi, I am Aurian (Codastic25) 👋<br><br>I am a 4th year engineer computer science and designer student (CY Tech & CY School of Design) in France.<br/><br>Currently trying to improve my coding skills in algorithms and data structurs.<br/><br><br/><br>Really into coding some app and trying to get experience in sofwtare engineering, I am currently doing the C piscine in Paris of July 2025. <br/><br>I am doing some exercices and projects on <span>android studio</span> to reach this goal.<br><br/><br> Connect with me <br> <br>**LinkedIn:** [Aurian Marvilliers](https://www.linkedin.com/in/aurian-marvilliers-85a3932b9/)
+## Hi, I am Aurian (Codastic25) 👋<br><br>I am a 4th year engineer computer science and designer student (CY Tech & CY School of Design) in France.<br/><br>Currently trying to improve my coding skills in algorithms and data structurs.<br/><br><br/><br>Really into coding some app and trying to get experience in sofwtare engineering, I also did the C piscine in Paris of July 2025. <br/><br>I am doing some exercices and projects on <span>android studio</span> to reach this goal.<br><br/><br> Connect with me <br> <br>**LinkedIn:** [Aurian Marvilliers](https://www.linkedin.com/in/aurian-marvilliers-85a3932b9/)
 
  
 
