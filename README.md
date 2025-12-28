@@ -15,8 +15,8 @@ Hi, I am Aurian (Codastic25) 👋<br><br>I am a 4th year engineer computer scien
 ## 🏆 GitHub Trophies
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Codastic25&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4)
 
-[![](https://github-profile-trophy.vercel.app/?username=Codastic25&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4)](https://github-profile-trophy.vercel.app/?username=Codastic25&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4
-)
+[![](https://github-profile-trophy.vercel.app/?username=Codastic25&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4)]
+(https://github-profile-trophy.vercel.app/?username=Codastic25&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Codastic25&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
