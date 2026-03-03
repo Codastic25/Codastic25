@@ -7,11 +7,4 @@ Hi, I am Aurian (Codastic25) 👋<br><br>I am a 4th year engineer computer scien
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Codastic25&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)<br/>
 
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Codastic25&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
-
----
-[![](https://visitcount.itsvg.in/api?id=Codastic25&icon=5&color=6)](https://visitcount.itsvg.in)
-
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
